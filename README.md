@@ -10,14 +10,14 @@ This is a web-based application that reads RSS feeds. This is a Udacity Front En
 
 ## The tests
 1. RSS Feeds
-..* are defined
-..* each feed has a URL defined
-..* each feed has a nema defined
+... are defined
+... each feed has a URL defined
+... each feed has a nema defined
 2. The Menu
-..* is hidden by default
-..* changes visibility when clicked
+... is hidden by default
+... changes visibility when clicked
 3. Initial Entries
-..* at least one feed present
+... at least one feed present
 4. New Feed Selection
-..* content changes when new feed is loaded
+... content changes when new feed is loaded
 
